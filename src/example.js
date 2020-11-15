@@ -11,7 +11,8 @@ const Example = (props) => {
                     🔭 I’m currently working on ...Web Development <br></br>
                     🌱 I’m currently learning ...REACT Js<br></br>
                     👯 I’m looking to collaborate ...WIth AN Energetic COder!!!<br></br>
-                    💬 Ask me about ...anything.<br></br>
+                    💬 Ask me about ... Want to anything.<br></br>
+                    <h1>Kazi</h1>
                     📫 How to reach me: ... Just MSg me<br></br>
                     😄 Pronouns: ... HE/him<br></br>
                     ⚡ Fun fact: ... THe WOrld In YOu LIve IS created BY YOUR own MIND!!!<br></br>
